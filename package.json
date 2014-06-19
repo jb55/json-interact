@@ -1,0 +1,16 @@
+{
+  "name": "json-interact",
+  "description": "interact with json through stdin",
+  "keywords": ["interact", "json"],
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jb55/json-interact.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "JSONStream": "^0.8.3",
+    "through2": "^0.5.1"
+  },
+  "devDependencies": {}
+}
