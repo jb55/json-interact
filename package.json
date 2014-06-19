@@ -1,6 +1,6 @@
 {
   "name": "json-interact",
-  "description": "interact with json through stdin",
+  "description": "interact with JSON streams over stdin/stdout with a single function",
   "keywords": ["interact", "json"],
   "version": "0.0.1",
   "repository": {
